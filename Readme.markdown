@@ -1,10 +1,10 @@
 Sign up with heroku at https://api.heroku.com/signup
 
-heroku create
+$ heroku create
 
-git push heroku master
+$ git push heroku master
 
-heroku console
+$ heroku console
 
 $ require 'shikashi'
 
