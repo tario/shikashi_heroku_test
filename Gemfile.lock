@@ -1,0 +1,17 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    evalhook (0.2.0)
+      evalmimic (>= 0.1.0)
+    evalmimic (0.1.0)
+    getsource (0.1.0)
+    shikashi (0.3.1)
+      evalhook (>= 0.2.0)
+      evalmimic (>= 0.1.0)
+      getsource (>= 0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  shikashi
